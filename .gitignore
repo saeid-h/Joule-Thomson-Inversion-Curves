@@ -1,0 +1,5 @@
+Archives/
+*.fig
+*.png
+*.pdf
+!*.m
